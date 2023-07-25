@@ -1,0 +1,102 @@
+/* Black Background */
+body {
+  background-color: black;
+}
+
+
+/* Title */
+h1 {
+  font-family:'Courier New', Courier, monospace;
+  text-align: center;
+  color: #FFCB05;
+  background-color: #3466AF;
+}
+
+/* Subtitle */
+h2 {
+  margin-left: 10px;
+  font-family:'Courier New', Courier, monospace;
+  font-size: 13px;
+  color: white;
+}
+
+#starters_image_div {
+  padding-top: 1px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 405px;
+  border: solid #3466AF ;
+}
+
+/* List of starters */
+.list {
+  font-family:'Courier New', Courier, monospace;
+  color:white
+}
+
+.line {
+  border-bottom: 1px solid #888;
+}
+
+/* Names of pokemon */
+.pokemon_names {
+  font-family:'Courier New', Courier, monospace;
+  color: white;
+}
+
+
+#bulbasaur_container{
+  border-radius: 15px;
+  border: solid #FFCB05;
+  background-color: #a2e0a6;
+  margin-bottom: 20px;
+  padding-left: 10px;
+
+}
+
+
+
+#charmander_container{
+  border-radius: 15px;
+  border: solid #FFCB05;
+  background-color: #ffd494;
+  margin-bottom: 20px;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+
+
+#squirtle_container{
+  border-radius: 15px;
+  border: solid #FFCB05;
+  background-color: #b1ebeb;
+  padding-left: 10px;
+
+
+}
+
+
+/* Pokemon description */
+.pokemon_description {
+  font-family:'Courier New', Courier, monospace;
+  color: white;
+}
+
+/* Pics of pokemon */
+.pokemon_images {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
+}
+
+
+
+
+footer {
+  padding-top: 120px;
+  font-size: 8px;
+  color: white;
+}
